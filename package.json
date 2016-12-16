@@ -1,7 +1,7 @@
 {
   "name": "es6-demo",
   "version": "1.0.0",
-  "description": "ES6 语法示例",
+  "description": "ES6 features demo",
   "author": "Sai628 <sai100628@gmail.com>",
   "private": true,
   "scripts": {
