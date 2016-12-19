@@ -1,7 +1,14 @@
 
+// Exporting in CommonJS
+module.exports = 1
+module.exports = {foo: 'bar'}
+module.exports = ['foo', 'bar']
+module.exports = function bar() {}
+
+
 // Named Exports
-export let name = 'David'
-export let age = 25
+export var name = 'David'
+export var age = 25
 
 
 // exporting a list of objects
