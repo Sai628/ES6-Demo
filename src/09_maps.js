@@ -15,7 +15,7 @@ let map2 = new Map([
 ]);
 
 for (let key of map2.keys()) {
-    console.log(typeof key);  // > string, boolean, number, object, function
+    console.log(typeof key);  // string, boolean, number, object, function
 }
 
 // .entries()
