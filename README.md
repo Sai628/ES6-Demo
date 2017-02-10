@@ -1,1 +1,1 @@
-# Some demo for ES6 features.
+# Some learning code for ES6 features.

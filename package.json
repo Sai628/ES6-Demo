@@ -1,7 +1,7 @@
 {
-  "name": "es6-demo",
+  "name": "es6-learning",
   "version": "1.0.0",
-  "description": "ES6 features demo",
+  "description": "ES6 features learning code",
   "author": "Sai628 <sai100628@gmail.com>",
   "private": true,
   "scripts": {

@@ -50,3 +50,6 @@ jspm_packages
 
 # babel complier output dir
 dist
+
+# IDE
+.vscode
