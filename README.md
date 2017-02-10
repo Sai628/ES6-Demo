@@ -1,1 +1,1 @@
-# Some learning code for ES6 features.
+# Some Learning Code for ES6 Features.
