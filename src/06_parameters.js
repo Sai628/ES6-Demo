@@ -5,7 +5,7 @@ function addTwoNumbers(x=0, y=0) {
 }
 
 console.log(addTwoNumbers(2, 4))  // 6
-console.log(addTwoNumbers(2))  // 3
+console.log(addTwoNumbers(2))  // 2
 console.log(addTwoNumbers())  // 0
 
 
